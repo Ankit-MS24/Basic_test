@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/your-repo/your-project.git'
+                git 'https://github.com/Ankit-MS24/Basic_test.git'
             }
         }
 
