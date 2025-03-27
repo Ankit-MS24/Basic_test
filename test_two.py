@@ -12,7 +12,7 @@ def test_add():
 
 
 if __name__ == "__main__":
-    pytest.main(["-v", "--junitxml=reports/test-results.xml"])
+    pytest.main()
 
 
 
